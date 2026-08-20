@@ -46,7 +46,31 @@ int main (){
     /*
     int A = 10;
     int B = 9;
-    int result = A & B;
+    int result = A & B;  
+    printf(" %d", result);
+    return 0;
+    */
+
+    /*
+    int A = 7;                                           BITWISE XOR
+    int B = 3;
+    int result = 7 ^ 3;
+    printf(" %d", result);
+    return 0; 
+    */
+
+    /*
+    int A = 5;                                          BITWISE NOT
+    int result = ~A;
+    printf(" %d", result);
+    return 0;
+    */
+
+    /*
+    int A = 6;                                          BITWISE LEFT+RIGHT SHIFT
+    int result = 6 >> 1;
+    int result2 = 6 << 1;
+    printf(" %d", result2);
     printf(" %d", result);
     return 0;
     */
